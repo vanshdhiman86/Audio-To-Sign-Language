@@ -1,5 +1,5 @@
 # Audio-To-Sign-Language
-Audio to ISL(Indian Sign Language) convertor in Python
+Audio to ISL(Indian Sign Language) translator in Python
 
 ## Modules Used
 
@@ -12,7 +12,7 @@ matplotlib
 
 ## Instructions
 
-1. Open the Project-2.ipynb file in jupyter notebook
+1. Open the Project-2.ipynb file in jupyter notebook.
 2. Run each cell. First 4 cell will install all the necessary libararies.
 3. Enter 1 to speak or 2 to type the text.
 4. Text will be converted to appropriate sign.
